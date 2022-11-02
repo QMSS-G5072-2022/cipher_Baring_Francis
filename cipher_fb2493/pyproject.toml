@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cipher_fb2493"
-version = "0.1.0"
+version = "0.1.2"
 description = "A package to encrypt and decrypt a string of alphabetic characters."
 authors = ["Francis Baring"]
 license = "MIT"
